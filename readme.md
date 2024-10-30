@@ -1,6 +1,7 @@
 <p align="center"><img src="UABEAvalonia/Assets/logo.png" /></p>
 
 **Quick Downloads:**
+test
 
 [Latest Nightly (Windows)](https://nightly.link/nesrak1/UABEA/workflows/dotnet-desktop/master/uabea-windows.zip) | [Latest Nightly (Linux)](https://nightly.link/nesrak1/UABEA/workflows/dotnet-ubuntu/master/uabea-ubuntu.zip) | [Latest Release](https://github.com/nesrak1/UABEA/releases)
 
